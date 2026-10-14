@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "applications": "Applications",
+    "tracking": "Track Application",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Government Service Assistant",
+    "subtitle": "Your AI-powered guide to government services and applications",
+    "welcome": "Welcome to the Government Service Assistant",
+    "description": "Get help with government applications, track your submissions, and receive multilingual support powered by AI.",
+    "getStarted": "Get Started",
+    "chatButton": "Chat with Assistant"
+  },
+  "chat": {
+    "title": "AI Assistant",
+    "placeholder": "Ask about government services, applications, or forms...",
+    "send": "Send",
+    "welcome": "Hello! I'm your government service assistant. How can I help you today?",
+    "loading": "Thinking..."
+  },
+  "services": {
+    "title": "Government Services",
+    "subtitle": "Browse available government services and applications",
+    "categories": {
+      "id": "Identity Documents",
+      "benefits": "Benefits & Assistance",
+      "tax": "Tax Services",
+      "health": "Health Services",
+      "housing": "Housing Services"
+    }
+  },
+  "applications": {
+    "title": "Application Forms",
+    "subtitle": "Fill out and submit government applications",
+    "startNew": "Start New Application",
+    "drafts": "Draft Applications",
+    "submitted": "Submitted Applications"
+  },
+  "tracking": {
+    "title": "Track Your Application",
+    "subtitle": "Check the status of your submitted applications",
+    "enterId": "Enter Application ID",
+    "track": "Track",
+    "status": {
+      "pending": "Pending Review",
+      "processing": "Processing",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "additionalInfo": "Additional Information Required"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next"
+  }
+}

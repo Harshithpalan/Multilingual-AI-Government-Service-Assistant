@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "applications": "Solicitudes",
+    "tracking": "Rastrear Solicitud",
+    "language": "Idioma"
+  },
+  "home": {
+    "title": "Asistente de Servicios Gubernamentales",
+    "subtitle": "Su guía con IA para servicios y solicitudes gubernamentales",
+    "welcome": "Bienvenido al Asistente de Servicios Gubernamentales",
+    "description": "Obtenga ayuda con solicitudes gubernamentales, rastree sus envíos y reciba soporte multilingüe impulsado por IA.",
+    "getStarted": "Comenzar",
+    "chatButton": "Chatear con el Asistente"
+  },
+  "chat": {
+    "title": "Asistente IA",
+    "placeholder": "Pregunte sobre servicios gubernamentales, solicitudes o formularios...",
+    "send": "Enviar",
+    "welcome": "¡Hola! Soy su asistente de servicios gubernamentales. ¿Cómo puedo ayudarle hoy?",
+    "loading": "Pensando..."
+  },
+  "services": {
+    "title": "Servicios Gubernamentales",
+    "subtitle": "Explore los servicios y solicitudes gubernamentales disponibles",
+    "categories": {
+      "id": "Documentos de Identidad",
+      "benefits": "Beneficios y Asistencia",
+      "tax": "Servicios de Impuestos",
+      "health": "Servicios de Salud",
+      "housing": "Servicios de Vivienda"
+    }
+  },
+  "applications": {
+    "title": "Formularios de Solicitud",
+    "subtitle": "Complete y envíe solicitudes gubernamentales",
+    "startNew": "Iniciar Nueva Solicitud",
+    "drafts": "Solicitudes en Borrador",
+    "submitted": "Solicitudes Enviadas"
+  },
+  "tracking": {
+    "title": "Rastrear Su Solicitud",
+    "subtitle": "Verifique el estado de sus solicitudes enviadas",
+    "enterId": "Ingrese el ID de Solicitud",
+    "track": "Rastrear",
+    "status": {
+      "pending": "Pendiente de Revisión",
+      "processing": "Procesando",
+      "approved": "Aprobado",
+      "rejected": "Rechazado",
+      "additionalInfo": "Información Adicional Requerida"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "submit": "Enviar",
+    "back": "Atrás",
+    "next": "Siguiente"
+  }
+}
